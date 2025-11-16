@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "code4swipe=code4swipe:main",
+            "code4swipe=code4swipe.code4swipe:main",
         ],
     },
     author="Andrey Danilov",
